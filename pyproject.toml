@@ -42,7 +42,7 @@ dependencies = [
    "pycountry",
    "airportsdata",
 ]
-dynamic = ["version"]
+version = "0.50.0"
 
 [project.optional-dependencies]
 test = [
